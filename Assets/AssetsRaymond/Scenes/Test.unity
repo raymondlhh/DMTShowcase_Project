@@ -631,6 +631,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6284118575966815168}
+  - component: {fileID: 6664900976717060475}
   m_Layer: 0
   m_Name: Galaxy2
   m_TagString: Untagged
@@ -638,6 +639,22 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &6664900976717060475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6664900976717060474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4361014a489af9848b37b9649244e9a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 0.2
+  scaleSpeed: 0.01
+  minScale: 0.1
+  maxScale: 2
 --- !u!33 &8656059126950056949
 MeshFilter:
   m_ObjectHideFlags: 0
