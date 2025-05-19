@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AssetsRaymond/Scenes/Test.unity
-    guid: 265a5a21827953d41846c66aac114b4d
+    path: Assets/AssetsRaymond/Scenes/ImageTarget.unity
+    guid: 2a8c8853156d99c4b8371c15c73001f4
   m_configObjects: {}
